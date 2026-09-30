@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and the methodological antecedent listed below."
+title: "Glycine-Alanine Metric Deformation and Topological Persistence"
+type: software
+authors:
+  - family-names: Hernández Páez
+    given-names: Dairo José
+  - family-names: Cadavid Moreno
+    given-names: Carlos Alberto
+repository-code: "https://github.com/Dairo0186/glycine-alanine-metric-deformation"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-29
+references:
+  - type: article
+    title: "Metric Deformation and Topological Persistence of Molecular Configuration Spaces"
+    authors:
+      - family-names: Hernández
+        given-names: Dairo José
+      - family-names: Cadavid
+        given-names: Carlos Alberto
+      - family-names: De Luque
+        given-names: Julio
+      - family-names: Fernández Bueno
+        given-names: David
+      - family-names: Vega
+        given-names: Rafael Ramiro
+      - family-names: Herrera
+        given-names: Álvaro Rafael
+    journal: Mathematical and Computational Applications
+    volume: 31
+    issue: 5
+    year: 2026
+    article-number: 185
+    doi: 10.3390/mca31050185

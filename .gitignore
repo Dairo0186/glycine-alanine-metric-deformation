@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+
+# Large reproducible inputs
+data/raw/
+data/matrices/
+*.sdf
+
+# Local manuscript files
+*.docx
+*.pdf~
+
