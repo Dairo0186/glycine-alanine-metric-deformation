@@ -1,0 +1,11 @@
+descriptor,25x25,36x36
+pairwise_distances,195000,839160
+relative_frobenius_deformation_percent,4.159,4.164
+optimal_global_scale,0.973616,0.973631
+residual_shape_deformation_percent,3.215,3.223
+pearson_correlation,0.993986,0.994001
+spearman_correlation,0.990917,0.990892
+contracted_pairs_percent,74.002,73.909
+expanded_pairs_percent,25.998,26.091
+mean_signed_change_angstrom,-0.032105,-0.032030
+
